@@ -90,10 +90,10 @@
 
 **201709110**
 
-![vpc wilson](https://github.com/Jodyannre/redes1_practica1_g12/blob/feature/javier/configuraciones/images/vpc wilson.png?raw=true)
+![vpc wilson](https://github.com/Jodyannre/redes1_practica1_g12/blob/feature/javier/configuraciones/images/vpc%20wilson.png)
 
 
 
 **201700644**
 
-![vpc javier](https://github.com/Jodyannre/redes1_practica1_g12/blob/feature/javier/configuraciones/images/vpc%20wilson.png)
+![vpc javier](https://github.com/Jodyannre/redes1_practica1_g12/blob/feature/javier/configuraciones/images/image-20220817115339282.png?raw=true)
