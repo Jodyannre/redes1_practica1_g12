@@ -76,6 +76,24 @@
 
 
 
+**201709311**
+
+![vpc edin](https://github.com/Jodyannre/redes1_practica1_g12/blob/feature/javier/configuraciones/images/vpc edin.png?raw=true)
+
+
+
+**201115018**
+
+![vpc Joel](https://github.com/Jodyannre/redes1_practica1_g12/blob/feature/javier/configuraciones/images/vpc Joel.png?raw=true)
+
+
+
+**201709110**
+
+![vpc wilson](https://github.com/Jodyannre/redes1_practica1_g12/blob/feature/javier/configuraciones/images/vpc wilson.png?raw=true)
+
+
+
 **201700644**
 
-![image-20220817115339282](https://github.com/Jodyannre/redes1_practica1_g12/blob/feature/javier/configuraciones/images/image-20220817115339282.png?raw=true)
+![vpc javier](https://github.com/Jodyannre/redes1_practica1_g12/blob/feature/javier/configuraciones/images/image-20220817115339282.png?raw=true)
