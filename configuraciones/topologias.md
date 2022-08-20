@@ -2,7 +2,19 @@
 
 ## Topologia utilizada
 
-> En la practica desarrollada la topologia implementada para el diseño de la red, se implemento la de estilo arbol.
+> La topología en redes la definimos como un mapa físico o lógico de una red para intercambiar datos. Es la forma en que está diseñada la red, sea en el plano físico o lógico. El concepto de red puede lo definimos como un conjunto de nodos.
+> Es útil comprobar que la topología de red cumple con los requerimientos para lo que se ha diseñado.
+> En la practica desarrollada la topologia implementada para el diseño de la red, se implemento la de estilo arbol. 
+
+### Implementaciones de topologia:
+
+  Componentes
+--
+
+- Cloud
+- Switch
+- Vpcs
+- cableado
 
 * Topologia implementada por Edin 
 
